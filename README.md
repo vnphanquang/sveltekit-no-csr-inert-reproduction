@@ -1,5 +1,7 @@
 # Reproduction SvelteKit - No CSR - `inert` attribute
 
+See https://github.com/sveltejs/kit/issues/13170
+
 ## Steps
 
 1. Clone this repository
